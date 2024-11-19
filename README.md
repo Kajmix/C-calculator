@@ -1,2 +1,2 @@
-# C-calculator
+# C#-calculator
 Normal and programmer calculator
